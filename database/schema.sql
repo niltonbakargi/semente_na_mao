@@ -1,0 +1,1 @@
+-- Estrutura do banco SQLite ou MySQL

@@ -1,0 +1,1 @@
+// Função utilitária ImageUtils.kt
